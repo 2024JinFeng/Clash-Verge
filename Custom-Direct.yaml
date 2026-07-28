@@ -1,0 +1,8 @@
+payload:
+  - PROCESS-NAME,ACE反作弊限制服务.exe
+  - DOMAIN,liveuser.030101.xyz
+  - DOMAIN-SUFFIX,sorryios.ai
+  - PROCESS-NAME,douyin.exe
+  - PROCESS-NAME,douyin_launcher.exe
+  - PROCESS-NAME,aweme.exe
+  - PROCESS-NAME,直播复盘录制工具.exe
