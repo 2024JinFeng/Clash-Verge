@@ -1,0 +1,9 @@
+payload:
+- DOMAIN-SUFFIX,instagram.com
+- DOMAIN-SUFFIX,cdninstagram.com
+- DOMAIN-SUFFIX,fbcdn.net
+- DOMAIN-SUFFIX,facebook.com
+- DOMAIN-SUFFIX,facebook.net
+- DOMAIN-SUFFIX,whatsapp.com
+- DOMAIN-SUFFIX,whatsapp.net
+- PROCESS-NAME,com.instagram.android

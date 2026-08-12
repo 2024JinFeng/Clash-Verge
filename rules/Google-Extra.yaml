@@ -1,0 +1,4 @@
+payload:
+- DOMAIN,connectivitycheck.gstatic.com
+- DOMAIN,connectivitycheck.android.com
+- DOMAIN,connectivitycheck.googleapis.com
