@@ -1,4 +1,5 @@
 payload:
-- DOMAIN,connectivitycheck.gstatic.com
-- DOMAIN,connectivitycheck.android.com
-- DOMAIN,connectivitycheck.googleapis.com
+  - DOMAIN,connectivitycheck.gstatic.com
+  - DOMAIN,connectivitycheck.android.com
+  - DOMAIN,connectivitycheck.googleapis.com
+  - DOMAIN-SUFFIX,google.com.hk

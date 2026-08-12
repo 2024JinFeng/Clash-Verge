@@ -5,5 +5,5 @@ payload:
   - PROCESS-NAME,douyin.exe
   - PROCESS-NAME,douyin_launcher.exe
   - PROCESS-NAME,aweme.exe
-  - PROCESS-NAME,com.ss.android.ugc.aweme
   - PROCESS-NAME,直播复盘录制工具.exe
+  - PROCESS-NAME,com.ss.android.ugc.aweme
