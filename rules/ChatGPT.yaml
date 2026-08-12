@@ -1,4 +1,2 @@
-# OpenAI / ChatGPT supplemental rules
-# Upload to: https://github.com/2024JinFeng/v2rayN/blob/main/Custom-ChatGPT.yaml
 payload:
   - DOMAIN-SUFFIX,oaistatsig.com
