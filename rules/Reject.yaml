@@ -1,2 +1,1 @@
-payload:
-  - AND,((NETWORK,UDP),(DST-PORT,443))
+payload: []
